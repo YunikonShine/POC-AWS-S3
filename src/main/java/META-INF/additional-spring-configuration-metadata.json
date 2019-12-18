@@ -1,0 +1,7 @@
+{"properties": [
+  {
+    "name": "app.awsServices.bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.awsServices.bucketName'"
+  }
+]}
